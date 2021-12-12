@@ -1,3 +1,5 @@
+#TicTacToe by Hunter Williamson, Reda Masri, and Nathan Reyes Vergara
+
 from tkinter import *
 from tkinter import messagebox
 import time
